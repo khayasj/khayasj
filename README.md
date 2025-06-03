@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Shin Than Thar Aung!
 
-I'm a tech-focused professional with 6+ years of experience across manufacturing, supply chain coordination, automation systems, and digital operations — now specializing in data analytics, cloud technologies, and user-focused system design.
+I'm a tech-focused professional with 6+ years of experience across manufacturing, supply chain coordination, automation systems, and digital operations, now specializing in data analytics, cloud technologies, and user-focused system design.
 
 🔧 I started my career maintaining PLC systems and designing AutoCAD schematics for high-speed milling operations.  
 📊 Later, I led full-cycle B2B logistics and sales operations at a large-scale biomass fuel factory, where I reduced raw material waste by 30% and improved delivery coordination.  
@@ -28,8 +28,8 @@ I'm a tech-focused professional with 6+ years of experience across manufacturing
   → Real-time hand gesture recognition using webcam input, applied to gaming and accessibility use cases
 
 ### 💻 Core Skills:
-`Python` | `SQL` | `Pandas` | `FastAPI` | `React.js` | `HTML/CSS` | `Excel (Advanced)` | `Power BI` | `Tableau`  
-`MongoDB` | `MySQL` | `UI/UX Design` | `AutoCAD` | `Cloud Concepts` | `PHP` | `Git` | `Technical Writing`
+`Python` , `SQL` , `Pandas` , `FastAPI` , `React.js` , `HTML/CSS`, `Excel (Advanced)` , `Power BI` , `Tableau`  
+`MongoDB` , `MySQL` , `UI/UX Design` , `AutoCAD` , `Cloud Concepts` , `PHP` , `Technical Writing`
 
 🔍 I’m currently open to roles in:
 - **Data Analytics / Business Intelligence (BI)**  
