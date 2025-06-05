@@ -37,6 +37,6 @@ I'm a tech-focused professional with 6+ years of experience across manufacturing
 - **Project or Product Support (Tech-enabled)**  
 - **UI/UX Design for Web Platforms**  
 - **Business Analysis & Technical Documentation**  
-- **AI & Cloud-Focused Development Projects**
+- **Cloud Architect**
 
 Thanks for visiting my GitHub!
