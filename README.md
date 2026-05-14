@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Shin Than Thar Aung!
+# 👋 Hi, I’m Shin Than Thar Aung (李新融)!
 
 I'm a tech-focused professional with 6+ years of experience across manufacturing, supply chain coordination, automation systems, and digital operations, now specializing in data analytics, cloud technologies, and user-focused system design.
 
