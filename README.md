@@ -1,42 +1,36 @@
-# 👋 Hi, I’m Shin Than Thar Aung (李新融)!
+# Shin Than Thar Aung
 
-I'm a tech-focused professional with 6+ years of experience across manufacturing, supply chain coordination, automation systems, and digital operations, now specializing in data analytics, cloud technologies, and user-focused system design.
+**Business Intelligence & Reporting Automation | Power BI · SAP · Python · Excel · Power Automate**
 
-🔧 I started my career maintaining PLC systems and designing AutoCAD schematics for high-speed milling operations.  
-📊 Later, I led full-cycle B2B logistics and sales operations at a large-scale biomass fuel factory, where I reduced raw material waste by 30% and improved delivery coordination.  
-🧠 I upskilled through a full Data Analytics Bootcamp (Python, SQL, Excel, Tableau, Power BI) and earned a Bachelor's in Computer Science (Big Data) from the University of Wollongong.  
-🧪 My academic and freelance projects include:
+I work on business reporting and process automation for finance and operations teams. My current work focuses on making recurring reports easier to prepare, more consistent and less dependent on manual steps.
 
-- **🧹 C2C Home Cleaning Platform**  
-  Stack: React.js, Node.js, Express, MySQL, Bootstrap, JSON  
-  → A customer-to-cleaner matching platform using a full-stack BCE structure with CI/CD via GitHub Actions
+## Current work
 
-- **🫁 COVID-19 X-ray Diagnostic System**  
-  Stack: PyTorch, UNet + ResNet34, DenseNet121, FastAPI, Gradio, MongoDB, Tailwind, PHP  
-  → A deep learning-powered diagnostic tool with segmentation, classification, and a doctor validation loop using confidence scores
+At Wilmar Myanmar, I work with SAP report outputs, Excel, Power Automate, SharePoint, Python and Power BI.
 
-- **🔬 Superconductivity Prediction via Big Data**  
-  Stack: Python, Scikit-learn, PySpark, Pandas, NumPy, Matplotlib, Seaborn  
-  → Predictive modeling using big data analysis and distributed computation to explore material behavior
+- Created a Rice reporting template that accepts SAP data and uses built-in formulas, unit conversions and warehouse mappings to prepare figures for Myanmar Rice Federation reporting.
+- Automated the handling of emailed SAP HTML reports, converting report outputs into Excel files and saving them in SharePoint.
+- Developing Python workflows that map SAP data into daily sales and weekly finance report templates, calculate report values and prepare Outlook emails with the completed workbooks attached.
+- Built a Teams-triggered workflow that uses finance-provided oil prices and discounts to calculate net profit and margin summaries for commercial review.
+- Developed Power BI reports for Rice and Sugar operations using Power Query and DAX.
 
-- **📧 Spam Email Detection Filter**  
-  Stack: Python, TF-IDF, Naïve Bayes, Logistic Regression, Voting Classifier 
-  → An NLP-based spam detection system with ensemble learning and dataset drift evaluation
+## Background
 
-- **🕹️ Gesture-Controlled Game Interface**  
-  Stack: MediaPipe, OpenCV, TensorFlow/Keras  
-  → Real-time hand gesture recognition using webcam input, applied to gaming and accessibility use cases
+My earlier experience includes manufacturing operations and supply-chain reporting, with exposure to production, inventory, operational performance and process improvement.
 
-### 💻 Core Skills:
-`Python` , `SQL` , `Pandas` , `FastAPI` , `React.js` , `HTML/CSS`, `Excel (Advanced)` , `Power BI` , `Tableau`  
-`MongoDB` , `MySQL` , `UI/UX Design` , `AutoCAD` , `Cloud Concepts` , `PHP` , `Technical Writing`
+- **Bachelor of Computer Science (Big Data)** — University of Wollongong, Australia
+- **Diploma in Management Studies** — Singapore Institute of Management
 
-🔍 I’m currently open to roles in:
-- **Data Analytics / Business Intelligence (BI)**  
-- **Supply Chain & Logistics Coordination**  
-- **Project or Product Support (Tech-enabled)**  
-- **UI/UX Design for Web Platforms**  
-- **Business Analysis & Technical Documentation**  
-- **Cloud Architect**
+## Selected projects
 
-Thanks for visiting my GitHub!
+- **[Enterprise LLM Usage & Cost Dashboard](https://github.com/khayasj/enterprise-llm-cost-optimization-dashboard)** — A dashboard built with synthetic data to explore usage, cost drivers, latency, cache efficiency and scenario-based optimisation ideas. The figures and potential savings are illustrative, not actual company results.
+- **[X-COVID Insight](https://github.com/khayasj/Covid19_X-Ray_Diagnosis_PlatForm)** — An academic full-stack project covering multi-role workflows, access controls, data validation, testing and technical documentation. It is a project demonstration, not a clinically validated diagnostic product.
+- **[C2C Home Cleaning Platform](https://github.com/khayasj/C2C_Home_Cleaning_PlatForm)** — A full-stack booking and matching platform using React, Node.js, Express and MySQL.
+
+## Tools and areas of focus
+
+Power BI · Power Query · DAX · SQL · Python · Pandas · Microsoft Excel · Power Automate · SharePoint · SAP report processing · Outlook workflows · Data mapping · Reporting automation · Business process improvement
+
+I am interested in roles in business intelligence, reporting automation, SAP/ERP reporting, business systems and operations reporting.
+
+[LinkedIn](https://www.linkedin.com/in/shinttaung/) · [GitHub](https://github.com/khayasj)
