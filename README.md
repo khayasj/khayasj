@@ -1,36 +1,45 @@
 # Shin Than Thar Aung
 
-**Business Intelligence & Reporting Automation | Power BI · SAP · Python · Excel · Power Automate**
+**Business Intelligence & Reporting Automation | SAP · Power Automate · Power BI · Python**
 
-I work on business reporting and process automation for finance and operations teams. My current work focuses on making recurring reports easier to prepare, more consistent and less dependent on manual steps.
+I build reporting and workflow automation for finance and operations teams. My current work combines SAP, DMS and FOMS report outputs with Excel, SharePoint, Python, Power Automate, Outlook and Power BI.
 
-## Current work
+## Current experience — Wilmar Myanmar
 
-At Wilmar Myanmar, I work with SAP report outputs, Excel, Power Automate, SharePoint, Python and Power BI.
+**Business Intelligence Executive | July 2026–Present**
 
-- Created a Rice reporting template that accepts SAP data and uses built-in formulas, unit conversions and warehouse mappings to prepare figures for Myanmar Rice Federation reporting.
-- Automated the handling of emailed SAP HTML reports, converting report outputs into Excel files and saving them in SharePoint.
-- Developing Python workflows that map SAP data into daily sales and weekly finance report templates, calculate report values and prepare Outlook emails with the completed workbooks attached.
-- Built a Teams-triggered workflow that uses finance-provided oil prices and discounts to calculate net profit and margin summaries for commercial review.
-- Developed Power BI reports for Rice and Sugar operations using Power Query and DAX.
+- Built a Rice month-end Excel template for Myanmar Rice Federation reporting. Users paste SAP ZMM close data; formulas apply unit conversions and warehouse mappings to calculate reporting figures.
+- Automated SAP report handling with Power Automate, converting emailed HTML report outputs into structured Excel files and saving them to SharePoint.
+- Developed Power BI dashboards across **7 business units**, using Power Query and DAX to consolidate operational and financial KPIs from SAP, DMS and FOMS exports.
+- Developing Python workflows to map SAP data into daily sales and weekly finance report templates, validate and calculate reporting fields, and prepare Outlook emails with completed workbooks attached.
+- Built a Teams-triggered workflow that uses Finance-provided oil-price and discount inputs to calculate and return net-profit and margin summaries.
 
-## Background
+## Earlier experience — U Kyu Family Grains & Manufacturing
 
-My earlier experience includes manufacturing operations and supply-chain reporting, with exposure to production, inventory, operational performance and process improvement.
+**Operations Analyst | February 2019–June 2021**
 
-- **Bachelor of Computer Science (Big Data)** — University of Wollongong, Australia
-- **Diploma in Management Studies** — Singapore Institute of Management
+- Analysed equipment performance and machine logs to identify recurring downtime causes; contributed to a **15% reduction in unplanned equipment downtime**.
+- Maintained operational procedures and technical records aligned with **ISO 9001:2015**, supporting audit readiness.
+- Used Excel tracking and trend analysis to help maintenance and operations teams review equipment performance.
+
+## Education
+
+- **Bachelor of Computer Science (Big Data)** — University of Wollongong, Australia (2023–2025)
+- **Diploma in Management Studies** — Singapore Institute of Management (2021–2022)
 
 ## Selected projects
 
-- **[Enterprise LLM Usage & Cost Dashboard](https://github.com/khayasj/enterprise-llm-cost-optimization-dashboard)** — A dashboard built with synthetic data to explore usage, cost drivers, latency, cache efficiency and scenario-based optimisation ideas. The figures and potential savings are illustrative, not actual company results.
-- **[X-COVID Insight](https://github.com/khayasj/Covid19_X-Ray_Diagnosis_PlatForm)** — An academic full-stack project covering multi-role workflows, access controls, data validation, testing and technical documentation. It is a project demonstration, not a clinically validated diagnostic product.
-- **[C2C Home Cleaning Platform](https://github.com/khayasj/C2C_Home_Cleaning_PlatForm)** — A full-stack booking and matching platform using React, Node.js, Express and MySQL.
+- **[X-COVID Insight](https://github.com/khayasj/Covid19_X-Ray_Diagnosis_PlatForm)** — Six-month academic capstone combining an X-ray analysis demonstration with a multi-role clinic workflow platform. Covers Grad-CAM-based visual explanation, role-based access across six user types, validation workflows, functional testing and technical documentation. This is an academic project, not a clinically validated diagnostic product.
+- **[Enterprise LLM Usage & Cost Dashboard](https://github.com/khayasj/enterprise-llm-cost-optimization-dashboard)** — Work in progress. A React and TypeScript dashboard exploring usage, cost, latency and cache-efficiency patterns using a synthetic dataset. All savings and business scenarios are illustrative.
+- **[Superconductivity Prediction with PySpark](https://github.com/khayasj/Superconductivity_Prediction_BigData)** — Academic Big Data project using Python, Pandas, scikit-learn and PySpark to clean and analyse a large dataset and compare regression models.
+- **[Hand Gesture Recognition Game](https://github.com/khayasj/Hand_Gesture_Recognition_Game)** — A Python application using MediaPipe, OpenCV and TensorFlow/Keras to recognise hand gestures from webcam input.
 
-## Tools and areas of focus
+## Skills and tools
 
-Power BI · Power Query · DAX · SQL · Python · Pandas · Microsoft Excel · Power Automate · SharePoint · SAP report processing · Outlook workflows · Data mapping · Reporting automation · Business process improvement
+Power BI · Power Query · DAX · SQL · Python · Pandas · Microsoft Excel · Power Automate · SharePoint · SAP report processing · DMS · FOMS · Outlook workflows · Data mapping · Reporting automation · Business process improvement
 
-I am interested in roles in business intelligence, reporting automation, SAP/ERP reporting, business systems and operations reporting.
+## Career interests
+
+Business Intelligence · Reporting Automation · Power Platform · SAP/ERP Reporting · Business Systems · Operations Reporting
 
 [LinkedIn](https://www.linkedin.com/in/shinttaung/) · [GitHub](https://github.com/khayasj)
