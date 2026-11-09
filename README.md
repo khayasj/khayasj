@@ -6,7 +6,7 @@ I build reporting solutions and automate routine processes for finance and opera
 
 ## Current work
 
-**Business Intelligence Executive — Wilmar Myanmar Limited | July 2026–Present**
+**Business Intelligence Executive — Wilmar Myanmar Limited | June 2026–Present**
 
 At Wilmar, I develop Power BI dashboards across **7 business units** and automate recurring SAP reporting across **4 entities**. Python-based processing reduced daily reporting delays by **85%**. I also built a Rice month-end Excel template that applies formulas, unit conversions and warehouse mappings to SAP ZMM Close data for Myanmar Rice Federation reporting, reducing the reporting cycle by **98%**.
 
@@ -33,6 +33,6 @@ I supported flour-milling operations through equipment-performance analysis, Exc
 
 ## Tools
 
-Power BI · Power Query · DAX · SQL · Python · Pandas · Microsoft Excel · Power Automate · SharePoint · SAP · DMS · FOMS · Outlook · Data mapping · Reporting automation
+Power BI · Power Query · DAX · SQL · Python · Pandas · Microsoft Excel · Power Automate · SAP · DMS · FOMS · Data mapping · Reporting automation
 
 [LinkedIn](https://www.linkedin.com/in/shinttaung/) · [GitHub](https://github.com/khayasj)
